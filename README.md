@@ -6,10 +6,11 @@
 ---
 
 ### Skills & Tech Stack
-* **Languages:** C++, Java, Python, HTML, CSS, JavaScript
-* **Libraries/Frameworks:** React.js, Node.js, NumPy, Pandas, WordPress, Shopify
-* **Tools:** GitHub, Firebase, Lovable, Canva, Excel
-* **Databases:** MySQL, MongoDB, PostgreSQL
+* **Languages:** C++, Java, Python, JavaScript, TypeScript, HTML, CSS
+* **Frontend:** React.js, Tailwind CSS, TanStack Query, Chart.js
+* **Backend:** Node.js, Express.js, Google Gemini API, Prisma
+* **Tools:** Git, GitHub, Firebase, Google Cloud, Postman, Lovable
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 
 ---
 
