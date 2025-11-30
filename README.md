@@ -27,6 +27,9 @@
 <a href="https://youtu.be/RLMWwp73fB4?si=AyCByMHODpKvjREf" target="_blank">
   <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
 </a>
+<a href="https://mind-grove-guide.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
+</a>
 
 #### TrainShield - Disaster Training Monitor (SIH 2025)
 *A centralized real-time monitoring system for NDMA to track disaster management training.*
@@ -38,6 +41,9 @@
 <br />
 <a href="https://youtu.be/nf94Ix9YA6Q?si=pJ443-xurVcWQVb_" target="_blank">
   <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+</a>
+<a href="https://train-shield-india.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site" />
 </a>
 
 ---
